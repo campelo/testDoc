@@ -1,7 +1,7 @@
 ---
-title: Example article title
+title: New sample
 published: false
-description: A simple test article
+description: A new simple test article
 tags: 'productivity, beginners, test'
 cover_image: ./assets/cat.jpg
 canonical_url: null
@@ -10,9 +10,9 @@ id: 935082
 
 Some random text with a [link](https://code.visualstudio.com).
 
-## Serious title
+## Serious new title
 
-Add some text here and there!
+Add some new text here and there!
 
 ![and some pictures too](./assets/cat.jpg)
 
